@@ -3,3 +3,5 @@ This project has a two-deep learning methods.1) Deep learning using by CNN. 2) D
 
 You need to have deep learning toolbox installed in your MATLAB first.
 You can install the toolbox using the "install package" in MATLAB.
+
+[Neural Network Project Report..docx](https://github.com/AshutoshLembhe/Deep-Learning-for-Image-Classification/files/5458780/Neural.Network.Project.Report.docx)
